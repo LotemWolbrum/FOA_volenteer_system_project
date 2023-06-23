@@ -19,9 +19,9 @@ We have added additional value to this project by making a recommendation system
 
 # Technologies Used
 
- * mySQL: We've made a full database using Tables and their connections, also we used Stored Procedure to access the DB from the server side.
- * C#: All server side (Backend) is written in C#. It's It is divided into 3 sections, namely Controllers, Models, and DAL (Data Access Layer).
- * HTML, CSS, JS, jQuery: The client side (Frontend) is using HTML for creating the pages, CSS for enhancing the visual appeal, and JS for making the data dynamic from the server.
+ * **mySQL**: We've made a full database using Tables and their connections, also we used Stored Procedure to access the DB from the server side.
+ * **C#**: All server side (Backend) is written in C#. It's It is divided into 3 sections, namely Controllers, Models, and DAL (Data Access Layer).
+ * **HTML, CSS, JS, jQuery**: The client side (Frontend) is using HTML for creating the pages, CSS for enhancing the visual appeal, and JS for making the data dynamic from the server.
 
 Namespace used: System.Net.Mail
 

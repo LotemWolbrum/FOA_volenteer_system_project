@@ -1,0 +1,21 @@
+﻿#checkBoxIHRA {
+    color: white;
+    margin-top: -17px;
+}
+
+.mdl-checkbox__box-outline {
+    border: 2px solid #48929e !important;
+    background-color: #fff !important;
+}
+
+.mdl-checkbox {
+    height: auto !important;
+    margin: 4px !important;
+    direction: ltr;
+}
+
+.mdl-checkbox__input {
+    margin-left: 4px;
+}
+
+

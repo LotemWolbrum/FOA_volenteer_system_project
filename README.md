@@ -1,6 +1,6 @@
 # FOA Volenteer System
 
-This repository contains the final project for my Industrial Engineering Management degree, developed in collaboration with a team of 3 members, including myself, to the FOA NGO. The project utilizes a combination of mySQL, C#, HTML, CSS, JS and jQuery to achieve its objectives.
+This repository contains the final project for my Industrial Engineering Management degree, developed in collaboration with a team of 3 members, including myself, to the FOA NGO. The project utilizes a combination of mySQL, C#, HTML, CSS, JS, and jQuery to achieve its objectives.
 
 # About the NGO
 
@@ -11,17 +11,11 @@ Fighting Online Antisemitism (FOA) is an Israeli-based NGO dedicated to combatin
 Our system tackles the challenge of consolidating crucial data in one place and provides valuable statistics. It goes a step further by offering recommendations to identify and report viral antisemitic posts.
 
 And I'll give you the details:
-The projects contains control of reports, control on volunteers hour reports and optimize the storage of all the information in one place.
+The projects contain control of reports, control of volunteers' hour reports and optimize the storage of all the information in one place.
 The volunteers of the FOA report anti-Semitic posts they find on social networks with the addition of a screenshot of the post. After uploading the post to the system, a system administrator should go over the post and confirm whether it matches the criteria for an anti-Semitic post and in addition enter the status of the post on the network and therefore it will be possible to be updated and know whether the post has been removed from that social network or not.
-The FOA has volunteers who need to enter their volunteer hours and receive approval from their team leader for each report they entered. We made that easy to use for both volenteers and team leaders. 
+The FOA has volunteers who need to enter their volunteer hours and receive approval from their team leader for each report they entered. We made that easy to use for both volunteers and team leaders. 
 
-We have added additional value for this project by making a recommendation system for the volunteers. According to a calculation with different weights for the parameters: likes, comments and shares, the recommendation system presents the social network with the greatest influence, as well as the most common language and hashtag/keywords. The system also has Dashboard BI page that can reccomend the volenteer where alse to look for anti-Semitic posts in the newtwork.
-
-# Technologies Used
-
- * mySQL: We've made a full database using Tables and its conecctions, also we used Stored Proceedure to access the DB from the server side.
- * C#: All server side (Backend) is written in C#. It's It is divided into 3 sections, namely Controllers, Models, and DAL (Data Access Layer).
- * HTML, CSS, JS, jQuery: The cliend side (Frontend) is using HTML for creating the pages, CSS for enhancing the visual appeal, and JS for making the data dynamic from the server.
+We have added additional value to this project by making a recommendation system for the volunteers. According to a calculation with different weights for the parameters: likes, comments and shares, the recommendation system presents the social network with the greatest influence, as well as the most common language and hashtag/keywords. The system also has a Dashboard BI page that can recommend to the volunteer where else to look for anti-Semitic posts in the network.
 
 Namespace used: System.Net.Mail
 

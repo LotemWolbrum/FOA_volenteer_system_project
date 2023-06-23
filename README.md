@@ -17,6 +17,12 @@ The FOA has volunteers who need to enter their volunteer hours and receive appro
 
 We have added additional value to this project by making a recommendation system for the volunteers. According to a calculation with different weights for the parameters: likes, comments and shares, the recommendation system presents the social network with the greatest influence, as well as the most common language and hashtag/keywords. The system also has a Dashboard BI page that can recommend to the volunteer where else to look for anti-Semitic posts in the network.
 
+# Technologies Used
+
+ * mySQL: We've made a full database using Tables and their connections, also we used Stored Procedure to access the DB from the server side.
+ * C#: All server side (Backend) is written in C#. It's It is divided into 3 sections, namely Controllers, Models, and DAL (Data Access Layer).
+ * HTML, CSS, JS, jQuery: The client side (Frontend) is using HTML for creating the pages, CSS for enhancing the visual appeal, and JS for making the data dynamic from the server.
+
 Namespace used: System.Net.Mail
 
 # Main screens from the system

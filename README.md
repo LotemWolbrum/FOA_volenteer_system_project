@@ -1,4 +1,4 @@
-# FOA Volenteer System
+# FOA Volunteer System
 
 This repository contains Full Stack system for the final project for my Industrial Engineering Management degree, developed in collaboration with a team of 3 members, including myself, to the FOA NGO. The project utilizes a combination of **mySQL, C#, HTML, CSS, JS and jQuery** to achieve its objectives.
 
